@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Universal Data Visualization Architect Skill (60 Methods)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-FF6500.svg?style=for-the-badge)](LICENSE)
@@ -73,4 +72,3 @@ This core specification is **100% Free and Open Source (MIT)**. If this Skill sa
 Distributed under the **MIT License**. Copyright (c) 2026 **Jorge Luis Rivera Claro**. See [`LICENSE`](LICENSE) for full details.
 =======
 # universal-data-visualization-skill
->>>>>>> c5c4fff10a969733be8effdd3899d66a94f203d0
