@@ -1,0 +1,29 @@
+{
+  "name": "universal-dataviz-skill",
+  "version": "1.0.0",
+  "description": "AI Agent Skill for 60 Data Visualization Methods across any programming language (JS/TS, Python, .NET, R, SQL)",
+  "keywords": [
+    "ai-skill",
+    "agent-skill",
+    "claude-skill",
+    "cursor-rules",
+    "mcp",
+    "data-visualization",
+    "echarts",
+    "d3",
+    "plotly",
+    "chartjs"
+  ],
+  "homepage": "https://github.com/megafly-25/universal-data-visualization-skill",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megafly-25/universal-data-visualization-skill.git"
+  },
+  "author": "Jorge Luis Rivera Claro (https://github.com/megafly-25)",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ]
+}
